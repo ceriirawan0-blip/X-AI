@@ -1,0 +1,6 @@
+{
+  "name": "X AI",
+  "description": "X AI - Smart AI Assistant created by X CERI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
